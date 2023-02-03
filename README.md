@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitanyaarora&label=Profile%20views&color=0e75b6&style=flat" alt="chaitanyaarora" /> </p>
 
-- 🌱 I’m currently learning **Java** **Python**
+- 🌱 I’m currently learning **Java**, **Python**
 
 - 📫 How to reach me **chaitanya.3163@gmail.com**
 
